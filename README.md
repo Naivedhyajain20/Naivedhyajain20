@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br>---<br><br>## 👋 About Me<br><br>Hi, I’m **Naivedhya Jain**, a Computer Science undergraduate with a strong passion for building **scalable and user-centric web applications**. I enjoy converting ideas into **clean, efficient, and maintainable solutions** through thoughtful design and structured problem-solving.<br><br>I primarily work with **JavaScript, React.js, and modern frontend technologies**, and I have hands-on experience developing **AI-assisted applications** and **responsive user interfaces**. I’m a continuous learner, always focused on improving both my technical depth and development practices.<br><br>Driven by curiosity and consistency, I enjoy refining projects until the **logic, performance, and user experience** come together seamlessly.<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Advanced **React.js** and **JavaScript**<br>* Backend development fundamentals<br>* Strengthening **Data Structures & Algorithms (DSA)**<br><br>---<br><br>## 🔭 Currently Working On<br><br>* Web development projects using modern frontend tools<br>* Improving problem-solving skills through **DSA practice**<br><br>---<br><br>## 💬 Ask Me About<br><br>Frontend development (**HTML, CSS, React.js**), **JavaScript**, **Git/GitHub**, hackathons, and building real-world projects from scratch.<br><br>---<br><br>## 👯 Looking to Collaborate On<br><br>Frontend development projects, **AI-based web applications**, open-source contributions, and hackathon-oriented problem-solving initiatives.<br><br>----<br><br>## ⚡ Fun Fact<br><br>I enjoy taking a project from an initial idea to a well-structured application, continuously refining the **logic, UI, and performance** until it feels complete and meaningful.<br><br>---<br><br>
 
-<!--
-**Naivedhyajain20/Naivedhyajain20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naivedhya-jain-64b791227/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Naivedhyajain20&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Naivedhyajain20&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naivedhyajain20&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Naivedhyajain20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
