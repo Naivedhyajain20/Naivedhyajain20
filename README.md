@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="right" height="203" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzk4ZnBhZm9kOTN3c3M5bW11amg2Yjc4MjYybHZpcW81Ym5xZXY2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif"  />
+<img align="right" height="203" src="gitbanner.gif"  />
 
 ###
 
