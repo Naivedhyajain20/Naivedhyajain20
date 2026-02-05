@@ -83,6 +83,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Naivedhyajain20/Naivedhyajain20/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
