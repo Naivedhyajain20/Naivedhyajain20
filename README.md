@@ -83,6 +83,6 @@
 
 ###
 
-<img src="snake.svg" alt="Snake animation" />
+<!-- <img src="snake.svg" alt="Snake animation" /> -->
 
 ###
