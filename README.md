@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="right" height="203" src="gitbanner.gif"  />
+<img align="right" height="203" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzk4ZnBhZm9kOTN3c3M5bW11amg2Yjc4MjYybHZpcW81Ym5xZXY2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif"  />
 
 ###
 
@@ -25,6 +25,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Naivedhyajain20.Naivedhyajain20&left_color=darkred&right_color=chocolate"  />
 </div>
+
+###
+
+<h4 align="left">💻 Tech Stack:</h4>
 
 ###
 
@@ -72,6 +76,10 @@
 
 ###
 
+<h5 align="left">🔗 Connect With Me :</h5>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/naivedhya-jain-64b791227/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -83,6 +91,6 @@
 
 ###
 
-<!-- <img src="snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/Naivedhyajain20/Naivedhyajain20/output/snake.svg" alt="Snake animation" />
 
 ###
