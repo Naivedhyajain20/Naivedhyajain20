@@ -1,21 +1,88 @@
-# 💫 About Me:
-<br>---<br>## 👋 About Me<br><br>Hi, I’m **Naivedhya Jain**, a Computer Science undergraduate with a strong passion for building **scalable and user-centric web applications**. I enjoy converting ideas into **clean, efficient, and maintainable solutions** through thoughtful design and structured problem-solving.<br><br>I primarily work with **JavaScript, React.js, and modern frontend technologies**, and I have hands-on experience developing **AI-assisted applications** and **responsive user interfaces**. I’m a continuous learner, always focused on improving both my technical depth and development practices.<br><br>Driven by curiosity and consistency, I enjoy refining projects until the **logic, performance, and user experience** come together seamlessly.<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Advanced **React.js** and **JavaScript**<br>* Backend development fundamentals<br>* Strengthening **Data Structures & Algorithms (DSA)**<br><br>---<br><br>## 🔭 Currently Working On<br><br>* Web development projects using modern frontend tools<br>* Improving problem-solving skills through **DSA practice**<br><br>---<br><br>## 💬 Ask Me About<br><br>Frontend development (**HTML, CSS, React.js**), **JavaScript**, **Git/GitHub**, hackathons, and building real-world projects from scratch.<br><br>---<br><br>## 👯 Looking to Collaborate On<br><br>Frontend development projects, **AI-based web applications**, open-source contributions, and hackathon-oriented problem-solving initiatives.<br><br>----<br><br>## ⚡ Fun Fact<br><br>I enjoy taking a project from an initial idea to a well-structured application, continuously refining the **logic, UI, and performance** until it feels complete and meaningful.<br><br>---<br><br>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&section=header&reversal=false&fontSize=77&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Hii%20,%20I'm%20Naivedhya%20Jain%20%F0%9F%91%8B&descSize=60&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naivedhya-jain-64b791227/) 
+<h3 align="left">👤  A Developer who loves building clean & user-friendly web apps.</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naivedhyajain20&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Naivedhyajain20&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naivedhyajain20&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br clear="both">
 
----
-[![](https://visitcount.itsvg.in/api?id=Naivedhyajain20&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" height="203" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNzk4ZnBhZm9kOTN3c3M5bW11amg2Yjc4MjYybHZpcW81Ym5xZXY2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/source.gif"  />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">🔭 I’m currently working on<br>• Full-Stack Web Development projects<br>• Data Structures & Algorithms (DSA)<br>• Working on Open Source projects.</p>
+
+###
+
+<p align="left">🌱  Learning & 🤝 Collaboration<br> • Exploring emerging technologies and modern    tools.<br>• Enjoy collaborating with teams to develop efficient and impactful applications.</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Naivedhyajain20.Naivedhyajain20&left_color=darkred&right_color=chocolate"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/naivedhya-jain-64b791227/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="naivedhyajain1234@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Naivedhyajain20/Naivedhyajain20/output/snake.svg" alt="Snake animation" />
+
+###
