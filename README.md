@@ -26,11 +26,24 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Naivedhyajain20.Naivedhyajain20&left_color=darkred&right_color=chocolate"  />
 </div>
 
-###
-
-<h4 align="left">💻 Tech Stack:</h4>
 
 ###
+
+<h2 align="left">🚀 Portfolio</h2>
+
+<p align="left">
+  <a href="https://naivedhyajain.engineer/" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=8B0000&background=0D0D0D00&vCenter=true&width=600&lines=Visit+My+Portfolio+%E2%86%92+naivedhyajain.engineer"
+      alt="Portfolio Link"
+    />
+  </a>
+</p>
+
+
+###
+
+<h2 align="left">💻 Tech Stack:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -76,9 +89,7 @@
 
 ###
 
-<h5 align="left">🔗 Connect With Me :</h5>
-
-###
+<h2 align="left">🔗 Connect With Me :</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/naivedhya-jain-64b791227/" target="_blank">
@@ -88,6 +99,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<hr>
+
+<p align="center">
+  Website Built & Designed with ❤️ by 
+  <strong style="color:#8B0000;">NAIVEDHYA JAIN</strong>
+</p>
 
 ###
 
