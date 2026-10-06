@@ -85,6 +85,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
 </div>
 
 ###
@@ -95,7 +97,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naivedhyajain20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naivedhyajain20&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 </p>
----
+
 ###
 
 <h2 align="left">🔗 Connect With Me :</h2>
