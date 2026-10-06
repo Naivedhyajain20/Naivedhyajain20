@@ -89,6 +89,15 @@
 
 ###
 
+## GitHub Stats
+ 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naivedhyajain20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naivedhyajain20&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</p>
+---
+###
+
 <h2 align="left">🔗 Connect With Me :</h2>
 
 <div align="left">
