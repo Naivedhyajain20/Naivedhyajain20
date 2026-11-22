@@ -85,10 +85,6 @@
 <img src="./footer.svg" alt="Chequered Flag Footer" width="100%"/>
 
 <p align="center">
-  Website Built & Designed with ❤️ by
-  <strong>
-    <a href="https://naivedhyajain.engineer/" target="_blank" style="color: #8B0000; text-decoration: none;">
-      NAIVEDHYA JAIN
-    </a>
-  </strong>
+  Website Built & Designed with ❤️ by 
+  <strong style="color:#8B0000">NAIVEDHYA JAIN</strong>
 </p>
