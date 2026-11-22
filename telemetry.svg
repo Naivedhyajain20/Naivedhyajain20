@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" style="background: transparent;">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#07080b" />
+      <stop offset="100%" stop-color="#0f1118" />
+    </linearGradient>
+
+    <!-- F1 Racing Red Gradient -->
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e10600" />
+      <stop offset="100%" stop-color="#ff3b30" />
+    </linearGradient>
+
+    <!-- Scanning Laser Beam -->
+    <linearGradient id="scanBeam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e10600" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#e10600" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      text {
+        font-family: 'Formula1', 'Titillium Web', 'Segoe UI', -apple-system, sans-serif;
+        font-weight: 700;
+      }
+      
+      /* Live Blinking Recording Dot */
+      @keyframes blinkLive {
+        0%, 100% { opacity: 1; filter: drop-shadow(0 0 5px #ff1801); }
+        50% { opacity: 0.2; filter: none; }
+      }
+      .live-dot { animation: blinkLive 1s infinite ease-in-out; }
+
+      /* Telemetry Waveform Sweep (Real-time ECG / Trace) */
+      @keyframes traceMove {
+        0% { stroke-dashoffset: 2000; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .telemetry-trace {
+        stroke-dasharray: 2000;
+        animation: traceMove 6s linear infinite;
+      }
+
+      /* Real-Time Skill Bars Sweep */
+      @keyframes barExpand {
+        0% { transform: scaleX(0); }
+        15%, 85% { transform: scaleX(1); }
+        100% { transform: scaleX(0); }
+      }
+      .skill-bar {
+        transform-box: fill-box;
+        transform-origin: left;
+        animation: barExpand 7s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+      }
+
+      /* Live Throttle and Brake Pulsing */
+      @keyframes throttlePedal {
+        0%, 30% { transform: scaleY(0.95); }
+        45% { transform: scaleY(0.2); }
+        60% { transform: scaleY(0.1); }
+        75%, 100% { transform: scaleY(0.95); }
+      }
+      @keyframes brakePedal {
+        0%, 35% { transform: scaleY(0.05); }
+        45%, 65% { transform: scaleY(0.9); }
+        75%, 100% { transform: scaleY(0.05); }
+      }
+      .live-thr {
+        transform-box: fill-box;
+        transform-origin: bottom;
+        animation: throttlePedal 3.8s ease-in-out infinite;
+      }
+      .live-brk {
+        transform-box: fill-box;
+        transform-origin: bottom;
+        animation: brakePedal 3.8s ease-in-out infinite;
+      }
+
+      /* Real-Time Scanning Sweep */
+      @keyframes scanBeamAnim {
+        0% { transform: translateX(-1000px); }
+        100% { transform: translateX(1000px); }
+      }
+      .scan-beam { animation: scanBeamAnim 3.5s linear infinite; }
+
+      /* DRS Badge Pulse */
+      @keyframes drsActive {
+        0%, 100% { opacity: 1; filter: drop-shadow(0 0 4px #00ff66); }
+        50% { opacity: 0.6; filter: none; }
+      }
+      .drs-pill { animation: drsActive 1.2s infinite; }
+    </style>
+  </defs>
+
+  <!-- Frame Background -->
+  <rect width="1000" height="360" rx="10" fill="url(#bgDark)" stroke="#1d1e25" stroke-width="1.8" />
+  
+  <!-- Scanning Laser Bar -->
+  <g clip-path="url(#frameClip)">
+    <clipPath id="frameClip">
+      <rect width="1000" height="360" rx="10" />
+    </clipPath>
+    <rect class="scan-beam" y="0" width="1000" height="2" fill="url(#scanBeam)" />
+  </g>
+
+  <!-- Top Telemetry Header Bar -->
+  <rect width="1000" height="44" rx="10" fill="#0d0f15" />
+  <rect width="6" height="44" fill="#e10600" />
+
+  <!-- Live Status & Title -->
+  <circle cx="26" cy="22" r="5" fill="#ff1801" class="live-dot" />
+  <text x="38" y="27" font-size="12" fill="#ff1801" letter-spacing="3">LIVE ONBOARD TELEMETRY</text>
+  <text x="240" y="27" font-size="11" fill="#6f6f7c" letter-spacing="2">· SOURCE: PILOT #20 (NAIVEDHYA JAIN)</text>
+
+  <!-- Right Side Status -->
+  <rect x="760" y="11" width="85" height="22" rx="4" fill="#002b11" stroke="#00ff66" stroke-width="1" />
+  <text x="802" y="26" font-size="10" fill="#00ff66" text-anchor="middle" font-weight="900" class="drs-pill" letter-spacing="1">DRS: OPEN</text>
+
+  <rect x="855" y="11" width="125" height="22" rx="4" fill="#1f092b" stroke="#b138ff" stroke-width="1" />
+  <text x="917" y="26" font-size="9" fill="#d896ff" text-anchor="middle" font-weight="800" letter-spacing="1">SECTOR: PURPLE</text>
+
+  <!-- Live Grid Background -->
+  <g opacity=".1" stroke="#ffffff">
+    <line x1="80" y1="44" x2="80" y2="360" />
+    <line x1="180" y1="44" x2="180" y2="360" />
+    <line x1="280" y1="44" x2="280" y2="360" />
+    <line x1="380" y1="44" x2="380" y2="360" />
+    <line x1="480" y1="44" x2="480" y2="360" />
+    <line x1="580" y1="44" x2="580" y2="360" />
+    <line x1="680" y1="44" x2="680" y2="360" />
+    <line x1="780" y1="44" x2="780" y2="360" />
+    <line x1="880" y1="44" x2="880" y2="360" />
+  </g>
+
+  <!-- ============================================= -->
+  <!-- REAL-TIME TELEMETRY TRACE WAVEFORM            -->
+  <!-- ============================================= -->
+  <path class="telemetry-trace" d="M0,280 C60,280 80,180 140,180 C200,180 220,260 280,260 C340,260 360,150 420,150 C480,150 500,270 560,270 C620,270 640,160 700,160 C760,160 780,240 840,240 C900,240 920,170 1000,170" fill="none" stroke="#e10600" stroke-width="2.5" opacity=".35" />
+
+  <!-- ============================================= -->
+  <!-- SKILL BARS WITH REAL DYNAMIC ANIMATION        -->
+  <!-- ============================================= -->
+
+  <!-- Skill 1: TypeScript / JavaScript -->
+  <g transform="translate(0, 0)">
+    <text x="30" y="85" font-size="13" fill="#e8e8ee" letter-spacing="2">TYPESCRIPT / JS</text>
+    <rect x="230" y="74" width="530" height="11" rx="2" fill="#17181f" />
+    <rect class="skill-bar" x="230" y="74" width="498" height="11" rx="2" fill="url(#redGrad)" style="animation-delay: 0.0s;" />
+    <rect class="skill-bar" x="230" y="74" width="498" height="2" rx="1" fill="#fff" opacity=".4" style="animation-delay: 0.0s;" />
+    <text x="775" y="86" font-size="15" fill="#ffffff" font-family="'Courier New', monospace">94<tspan font-size="10" fill="#6f6f7c">%</tspan></text>
+  </g>
+
+  <!-- Skill 2: React / Next.js -->
+  <g transform="translate(0, 48)">
+    <text x="30" y="85" font-size="13" fill="#e8e8ee" letter-spacing="2">REACT / NEXT.JS</text>
+    <rect x="230" y="74" width="530" height="11" rx="2" fill="#17181f" />
+    <rect class="skill-bar" x="230" y="74" width="487" height="11" rx="2" fill="url(#redGrad)" style="animation-delay: 0.12s;" />
+    <rect class="skill-bar" x="230" y="74" width="487" height="2" rx="1" fill="#fff" opacity=".4" style="animation-delay: 0.12s;" />
+    <text x="775" y="86" font-size="15" fill="#ffffff" font-family="'Courier New', monospace">92<tspan font-size="10" fill="#6f6f7c">%</tspan></text>
+  </g>
+
+  <!-- Skill 3: C++ (DSA Engine) -->
+  <g transform="translate(0, 96)">
+    <text x="30" y="85" font-size="13" fill="#e8e8ee" letter-spacing="2">C++ (DSA ENGINE)</text>
+    <rect x="230" y="74" width="530" height="11" rx="2" fill="#17181f" />
+    <rect class="skill-bar" x="230" y="74" width="466" height="11" rx="2" fill="url(#redGrad)" style="animation-delay: 0.24s;" />
+    <rect class="skill-bar" x="230" y="74" width="466" height="2" rx="1" fill="#fff" opacity=".4" style="animation-delay: 0.24s;" />
+    <text x="775" y="86" font-size="15" fill="#ffffff" font-family="'Courier New', monospace">88<tspan font-size="10" fill="#6f6f7c">%</tspan></text>
+  </g>
+
+  <!-- Skill 4: Node.js & APIs -->
+  <g transform="translate(0, 144)">
+    <text x="30" y="85" font-size="13" fill="#e8e8ee" letter-spacing="2">NODE.JS &amp; APIS</text>
+    <rect x="230" y="74" width="530" height="11" rx="2" fill="#17181f" />
+    <rect class="skill-bar" x="230" y="74" width="450" height="11" rx="2" fill="url(#redGrad)" style="animation-delay: 0.36s;" />
+    <rect class="skill-bar" x="230" y="74" width="450" height="2" rx="1" fill="#fff" opacity=".4" style="animation-delay: 0.36s;" />
+    <text x="775" y="86" font-size="15" fill="#ffffff" font-family="'Courier New', monospace">85<tspan font-size="10" fill="#6f6f7c">%</tspan></text>
+  </g>
+
+  <!-- Skill 5: Supabase & DBs -->
+  <g transform="translate(0, 192)">
+    <text x="30" y="85" font-size="13" fill="#e8e8ee" letter-spacing="2">SUPABASE &amp; SQL</text>
+    <rect x="230" y="74" width="530" height="11" rx="2" fill="#17181f" />
+    <rect class="skill-bar" x="230" y="74" width="434" height="11" rx="2" fill="url(#redGrad)" style="animation-delay: 0.48s;" />
+    <rect class="skill-bar" x="230" y="74" width="434" height="2" rx="1" fill="#fff" opacity=".4" style="animation-delay: 0.48s;" />
+    <text x="775" y="86" font-size="15" fill="#ffffff" font-family="'Courier New', monospace">82<tspan font-size="10" fill="#6f6f7c">%</tspan></text>
+  </g>
+
+  <!-- ============================================= -->
+  <!-- RIGHT SIDE: REAL-TIME TELEMETRY PEDALS & SPEED -->
+  <!-- ============================================= -->
+  <g transform="translate(830, 70)">
+    <!-- Speedometer -->
+    <rect x="0" y="4" width="145" height="115" rx="6" fill="#090a0f" stroke="#222533" stroke-width="1.2" />
+    
+    <!-- Cycling Speed Number Animation -->
+    <g transform="translate(14, 45)">
+      <!-- Speed Numbers Cycling via Animate -->
+      <text x="0" y="0" font-size="36" fill="#ffffff" font-weight="900" font-family="'Courier New', monospace">
+        <animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;0.25;0.5;0.75;1" dur="4s" repeatCount="indefinite" />
+        324
+      </text>
+      <text x="0" y="0" font-size="36" fill="#00f0ff" font-weight="900" font-family="'Courier New', monospace">
+        <animate attributeName="opacity" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="4s" repeatCount="indefinite" />
+        335
+      </text>
+      <text x="0" y="0" font-size="36" fill="#ff1801" font-weight="900" font-family="'Courier New', monospace">
+        <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" dur="4s" repeatCount="indefinite" />
+        342
+      </text>
+      <text x="0" y="0" font-size="36" fill="#00ff66" font-weight="900" font-family="'Courier New', monospace">
+        <animate attributeName="opacity" values="0;0;0;1;0" keyTimes="0;0.25;0.5;0.75;1" dur="4s" repeatCount="indefinite" />
+        318
+      </text>
+      <text x="74" y="-8" font-size="10" fill="#e10600" font-weight="900" letter-spacing="1">KM/H</text>
+      <text x="74" y="8" font-size="11" fill="#6f6f7c" font-weight="700">GEAR 8</text>
+    </g>
+
+    <!-- Throttle & Brake Live Pedals -->
+    <g transform="translate(14, 60)">
+      <!-- Throttle Bar (Green) -->
+      <rect x="0" y="0" width="14" height="42" rx="2" fill="#1b1b22" />
+      <rect class="live-thr" x="0" y="0" width="14" height="42" rx="2" fill="#00ff66" />
+      <text x="7" y="52" font-size="7" fill="#8892b0" text-anchor="middle" font-weight="700">THR</text>
+
+      <!-- Brake Bar (Red) -->
+      <rect x="22" y="0" width="14" height="42" rx="2" fill="#1b1b22" />
+      <rect class="live-brk" x="22" y="0" width="14" height="42" rx="2" fill="#e10600" />
+      <text x="29" y="52" font-size="7" fill="#8892b0" text-anchor="middle" font-weight="700">BRK</text>
+
+      <!-- Delta -->
+      <text x="50" y="24" font-size="9" fill="#94a3b8" font-family="monospace">DELTA</text>
+      <text x="50" y="38" font-size="11" fill="#b138ff" font-weight="900" font-family="monospace">-0.428s</text>
+    </g>
+  </g>
+
+  <!-- Bottom Telemetry Ticker -->
+  <rect x="0" y="324" width="1000" height="36" rx="0" fill="#090a0e" />
+  <text x="24" y="346" font-size="10" fill="#6f6f7c" letter-spacing="3">TELEMETRY SYNC: 100% OPERATIONAL &bull; HIGH PERFORMANCE CODE EXECUTION</text>
+  <text x="976" y="346" font-size="10" fill="#e10600" text-anchor="end" letter-spacing="2">POLE POSITION LAP 57</text>
+</svg>
