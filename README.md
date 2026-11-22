@@ -86,5 +86,6 @@
 
 <p align="center">
   Website Built & Designed with ❤️ by 
-  <strong style="color:#8B0000">NAIVEDHYA JAIN</strong>
+  <strong style="color: #8B0000">NAIVEDHYA JAIN</strong>
 </p>
+ 
